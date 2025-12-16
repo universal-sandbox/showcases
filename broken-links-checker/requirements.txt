@@ -1,0 +1,4 @@
+universal-sandbox
+python-dotenv
+beautifulsoup4
+playwright
