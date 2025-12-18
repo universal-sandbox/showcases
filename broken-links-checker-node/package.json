@@ -1,0 +1,26 @@
+{
+  "name": "broken-links-checker-node",
+  "version": "1.0.0",
+  "description": "A Node.js-based tool that crawls websites to identify broken links using the Universal Sandbox browser environment",
+  "type": "module",
+  "main": "linkChecker.js",
+  "scripts": {
+    "start": "node linkChecker.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "link-checker",
+    "broken-links",
+    "crawler",
+    "sandbox",
+    "playwright"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@universal-sandbox/sdk": "^0.0.11",
+    "cheerio": "^1.0.0",
+    "dotenv": "^16.0.3",
+    "playwright": "^1.40.0"
+  }
+}
