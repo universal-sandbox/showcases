@@ -10,14 +10,11 @@ Tools that crawl websites to identify broken links using the Universal Sandbox b
 
 | Implementation | Description | Introduction |
 |----------------|-------------|--------------|
-| [Python](./broken-links-checker/README.md) | Python-based broken links checker using Playwright | [Link](https://ai-infra.org/showcases/broken-links-checker) |
-| [Node.js](./broken-links-checker-node/README.md) | Node.js-based broken links checker with CLI options | [Link](https://ai-infra.org/showcases/broken-links-checker-node) |
+| [Python](./broken-links-checker/README.md) | Python-based broken links checker using Playwright | https://ai-infra.org/showcases/broken-links-checker |
+| [Node.js](./broken-links-checker-node/README.md) | Node.js-based broken links checker with CLI options | https://ai-infra.org/showcases/broken-links-checker-node |
 
 ### AI Pulse
 
-A showcase for AI Pulse.
+Your comprehensive directory for the latest AI news, influencers, resources, tools, and learning materials.
 
-| Link | URL |
-|------|-----|
-| Introduction | [Link](https://ai-infra.org/#showcase) |
-| Production | [Link](https://pulse.ai-infra.org/) |
+https://pulse.ai-infra.org/
